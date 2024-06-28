@@ -1,0 +1,11 @@
+.top-5-wp-blogs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.top-5-wp-blog-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #fff;
+}
